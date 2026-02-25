@@ -5,6 +5,9 @@ A modern, highly customizable, and interactive memory matching game built comple
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen)
 ![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)
 
+play at https://sk-memory-game.pages.dev/
+---
+
 ## ✨ Features
 
 - **3 Card Themes**: Choose between Emojis (🍎), Letters (A), or Numbers (1).
